@@ -1,2 +1,1 @@
-.pdf
-.idea/
+Text classification model that uses the Kaggle emotion dataset
